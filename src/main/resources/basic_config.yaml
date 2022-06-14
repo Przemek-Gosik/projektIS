@@ -1,0 +1,4 @@
+source_folder: 'data/'
+wodka_file_name: 'CENY_WODKA_CZYSTA_40.xml'
+wino_file_name: 'CENY_WINO.xml'
+wypadki_file_name: 'TRAN_3911_CTAB_20220531124957.xml'
